@@ -1,4 +1,4 @@
-# Primeiras Experiencias com Machine Learning
+# Primeiras Experiencias com Machine Learning <image height="35px" src="https://cdn-icons-png.flaticon.com/512/8637/8637099.png"/>
 
 Compartilhando neste repositório meus estudos de iniciação às praticas de Machine Learning.
 
